@@ -1,6 +1,7 @@
 GIT
-  remote: git://github.com/sep/sep_holidays.git
-  revision: ff7b2aa85a6d7a355d613eb9d02ef8d70131b50d
+  remote: git://github.com/jonfuller/sep_holidays.git
+  revision: 1d0736e7d0745539ce6dc58956785bcdafaf2391
+  branch: next_holiday
   specs:
     sep_holidays (0.0.3)
 
