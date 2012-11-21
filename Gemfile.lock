@@ -8,6 +8,10 @@ GIT
 GEM
   remote: http://rubygems.org/
   specs:
+    active_support (3.0.0)
+      activesupport (= 3.0.0)
+    activesupport (3.0.0)
+    i18n (0.6.1)
     rack (1.4.1)
     rack-protection (1.2.0)
       rack
@@ -21,5 +25,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  active_support
+  i18n
   sep_holidays!
   sinatra
